@@ -1,0 +1,24 @@
+### Note: Basic set up - edit as needed ###
+
+# Data files (often too large for GitHub)
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environments
+.env
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

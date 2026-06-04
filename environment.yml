@@ -1,0 +1,17 @@
+name: InstaCart_Analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  #- jupyter
+  #- notebook
+  #- ipykernel
+  - pip
+  - pip:
+  #    - any-pip-only-package  # remove if unused
