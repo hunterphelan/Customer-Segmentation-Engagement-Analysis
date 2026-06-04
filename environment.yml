@@ -1,4 +1,4 @@
-name: InstaCart_Analysis
+name: InstaCart-Analysis
 channels:
   - conda-forge
   - defaults
