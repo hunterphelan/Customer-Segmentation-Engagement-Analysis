@@ -1,5 +1,3 @@
-## InstaCart Customer Churn Prediction ##
+## InstaCart Customer Segmentation ##
 
-## Customer Churn Prediction
-
-README in production. Project in final stages of production. Still requires cleaning, observations & conclusion.
+README and analysis in final stages of production. Still requires cleaning, observations & conclusion.
